@@ -1,0 +1,10 @@
+1
+scontoFedeltà
+20
+2
+nuovoCliente
+10
+13
+autunno
+20
+0

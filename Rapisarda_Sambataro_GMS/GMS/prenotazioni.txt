@@ -1,0 +1,49 @@
+1***** RICEVUTA *****
+idPrenotazione:1
+data e ora:Sun Sep 04 16:49:55 CEST 2022
+nome e cognome :mario sambataro
+prodotto prenotato:id:777
+titolo:UNCHARTED
+piattaforma:PC
+prezzo:39.99
+2***** RICEVUTA *****
+idPrenotazione:2
+data e ora:Sun Sep 04 16:50:45 CEST 2022
+nome e cognome :missing missing
+prodotto prenotato:id:111
+titolo:THE ORDER
+piattaforma:PS4
+prezzo:9.99
+3***** RICEVUTA *****
+idPrenotazione:3
+data e ora:Sun Sep 04 17:06:24 CEST 2022
+nome e cognome :missing missing
+prodotto prenotato:id:777
+titolo:UNCHARTED
+piattaforma:PC
+prezzo:39.99
+4***** RICEVUTA *****
+idPrenotazione:4
+data e ora:Sun Sep 04 17:37:58 CEST 2022
+nome e cognome :niko Pandetta
+prodotto prenotato:id:777
+titolo:UNCHARTED
+piattaforma:PC
+prezzo:39.99
+5***** RICEVUTA *****
+idPrenotazione:5
+data e ora:Sun Sep 04 17:44:36 CEST 2022
+nome e cognome :mario rossi
+prodotto prenotato:id:111
+titolo:THE ORDER
+piattaforma:PS4
+prezzo:9.99
+6***** RICEVUTA *****
+idPrenotazione:6
+data e ora:Mon Sep 12 19:00:30 CEST 2022
+nome e cognome :missing missing
+prodotto prenotato:id:111
+titolo:THE ORDER
+piattaforma:PS4
+prezzo:9.99
+7
