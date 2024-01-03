@@ -1,4 +1,4 @@
------------GMS-------------
-- La cartella Documents contiene tutti i modelli UML realizzato con astah in pdf.
-- GMS.pdf contiene tutta la documentazione realizzata dal documento di visione fino al riepilogo dei test unitari effettuati.
-- La cartella GMS contiene invece il progetto realizzato su IntelliJ.
+-----------  GMS  -------------
+- The documents folder contains the UML models created using astah.
+- GMS.pdf is a summary document containing all the work phases. 
+- The GMS folder contains all the java files developed.
